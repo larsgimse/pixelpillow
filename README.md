@@ -2,7 +2,7 @@
 
 
 
-with DS18B20 temperature sensor:
+with DS18B20 temperature sensor:<br>
 https://www.hackster.io/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806
 
 
