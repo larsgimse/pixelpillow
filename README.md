@@ -24,6 +24,8 @@ https://www.tinkercad.com/things/eJ3FUaSdbI9
 Code: <br>
 https://github.com/larsgimse/pixelpillow/tree/master/tmp36
 
+<img src="https://github.com/larsgimse/pixelpillow/blob/master/proto_pillow.png">
+
 # ----------
 Neopixel effects from:<br>
 https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
