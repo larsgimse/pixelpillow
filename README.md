@@ -1,8 +1,8 @@
 # temperature pixelpillow
 
-Set room temperature with potensiometer until you get blue color. (Between 10 and 30 C degree)
-If temperature rise you got red color.
-If temperature sink you got green color.
+Set room temperature with potensiometer until you get blue color. (Between 10 and 30 C degree)<br>
+If temperature rise you got red color.<br>
+If temperature sink you got green color.<br>
 
 <img src="https://github.com/larsgimse/pixelpillow/blob/master/temperatur_pillow.png">
 
