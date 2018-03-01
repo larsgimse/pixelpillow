@@ -1,9 +1,20 @@
-# temperatur pixelpillow
+# temperature pixelpillow
 
+Set room temperature with potensiometer until you get blue color. (Between 10 and 30 C degree)
+If temperature rise you got red color.
+If temperature sink you got green color.
+
+<img src="https://github.com/larsgimse/pixelpillow/blob/master/temperatur_pillow.png">
+
+Neopixel effects from:<br>
+https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
 
 
 with DS18B20 temperature sensor:<br>
 https://www.hackster.io/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806
+
+Code: <br>
+https://github.com/larsgimse/pixelpillow/tree/master/ds18b20
 
 
 Buy sensor:<br>
@@ -12,3 +23,8 @@ https://www.aliexpress.com/item/Free-shipping-stainless-steel-package-Waterproof
 
 with TMP36 temperature sensor
 https://www.tinkercad.com/things/eJ3FUaSdbI9 
+
+Code: <br>
+https://github.com/larsgimse/pixelpillow/tree/master/tmp36
+
+
