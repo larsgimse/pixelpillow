@@ -24,6 +24,7 @@ https://www.tinkercad.com/things/eJ3FUaSdbI9
 Code: <br>
 https://github.com/larsgimse/pixelpillow/tree/master/tmp36
 
+Prototype before soldering and sewing:<br>
 <img src="https://github.com/larsgimse/pixelpillow/blob/master/proto_pillow.png">
 
 # ----------
