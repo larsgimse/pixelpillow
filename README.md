@@ -6,8 +6,6 @@ If temperature sink you got green color.<br>
 
 <img src="https://github.com/larsgimse/pixelpillow/blob/master/temperatur_pillow.png">
 
-Neopixel effects from:<br>
-https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
 
 # DS18B20 temperature sensor:<br>
 Code: <br>
@@ -26,4 +24,6 @@ https://www.tinkercad.com/things/eJ3FUaSdbI9
 Code: <br>
 https://github.com/larsgimse/pixelpillow/tree/master/tmp36
 
-
+# ----------
+Neopixel effects from:<br>
+https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
